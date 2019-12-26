@@ -7,7 +7,7 @@
 Este repositorio contiene enlaces de todos los ejemplos de aplicaciones hechas con Kinect.
 
 
-## YouTube Channel
+## Canal de Youtube
 
 [Codigo Fuente](https://www.youtube.com/codigofuente)
 
@@ -25,8 +25,8 @@ Este repositorio contiene enlaces de todos los ejemplos de aplicaciones hechas c
 
 1.  [Kinect Controlar Colores RGB](https://github.com/rodrigolara05/KinectExampleApps)[![watch](image/youtube.png)](https://www.youtube.com/codigofuente)
 
-# Pull Requests
-
+## Pull Requests
+<!--
 I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
 
 1.  Match the document style as closely as possible.
@@ -35,8 +35,8 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 4.  Check for existing [issues](https://github.com/iampawan/FlutterExampleApps/issues) first, before filing an issue.
 5.  Make sure you follow the set standard as all other projects in this repo do
 6.  Have fun!
-
-### Created & Maintained By
+-->
+## Creado & Mantenido Por
 
 [Rodrigo Lara](https://github.com/rodrigolara05) ([YouTube](https://www.youtube.com/codigofuente))
 ([Instagram](https://www.instagram.com/rodrigolara05))
