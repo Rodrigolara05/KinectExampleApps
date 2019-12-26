@@ -9,7 +9,7 @@ Este repositorio contiene enlaces de todos los ejemplos de aplicaciones hechas c
 
 ## Canal de Youtube
 
-[Codigo Fuente](https://www.youtube.com/codigofuente)
+- [Codigo Fuente](https://www.youtube.com/codigofuente)
 
 ### Capturas de las Aplicaciones
 
@@ -25,22 +25,12 @@ Este repositorio contiene enlaces de todos los ejemplos de aplicaciones hechas c
 
 1.  [Kinect Controlar Colores RGB](https://github.com/rodrigolara05/KinectExampleApps)[![watch](image/youtube.png)](https://www.youtube.com/codigofuente)
 
-## Pull Requests
-<!--
-I welcome and encourage all pull requests. It usually will take me within 24-48 hours to respond to any issue or request. Here are some basic rules to follow to ensure timely addition of your request:
+### Creado & Mantenido Por
 
-1.  Match the document style as closely as possible.
-2.  Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
-3.  Pull requests _must_ be made against `master` branch for this particular repository.
-4.  Check for existing [issues](https://github.com/iampawan/FlutterExampleApps/issues) first, before filing an issue.
-5.  Make sure you follow the set standard as all other projects in this repo do
-6.  Have fun!
--->
-## Creado & Mantenido Por
-
-[Rodrigo Lara](https://github.com/rodrigolara05) ([YouTube](https://www.youtube.com/codigofuente))
+[Rodrigo Lara](https://github.com/rodrigolara05)
+([YouTube](https://www.youtube.com/codigofuente))
 ([Instagram](https://www.instagram.com/rodrigolara05))
-
-> Si encuentras este proecto de ayuda o haz aprendido de este codigo fuente y deseas agradecermelo, encantado acepto una taza de :coffee:
+([Linkedin](https://www.linkedin.com/in/rodrigolara05/))
+> Si encuentras este proyecto de ayuda o haz aprendido de este codigo fuente y deseas agradecermelo, encantado acepto una taza de :coffee:
 >
 > - [PayPal](https://www.paypal.me/RodrigoMax/)
